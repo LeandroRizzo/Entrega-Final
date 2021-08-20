@@ -1,0 +1,32 @@
+[
+{ 
+    "categoria": "Yerba", 
+    "marca": "Taragui", 
+    "tamaño": "500 grs", 
+    "precio": "250"
+},
+{ 
+    "categoria": "Azucar", 
+    "marca": "Ledezma", 
+    "tamaño": "1 kg", 
+    "precio": "200"
+},
+{ 
+    "categoria": "Té", 
+    "marca": "Green Hills", 
+    "tamaño": "50 grs", 
+    "precio": "190"
+},
+{ 
+    "categoria": "Gaseosa", 
+    "marca": "Coca Cola", 
+    "tamaño": "2.25lts", 
+    "precio": "300"
+},
+{ 
+    "categoria": "Lavandina", 
+    "marca": "Ayudin", 
+    "tamaño": "1 lt", 
+    "precio": "230"
+}
+]
